@@ -61,7 +61,7 @@ Features: Business showcase, service listings, customer contact integration
 
 Focus: Real-world deployment, performance, and maintainability
 🔗 Live Website: shubhamglasshouse.com
-🔗 Repository: (add repo link if public)
+🔗 Repository: https://github.com/Shubbu1107/ShubhamGlassHouse
 
 ⭐ This project demonstrates real client requirements, deployment experience, and production-ready code.
 
