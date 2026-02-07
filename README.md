@@ -1,55 +1,111 @@
-# Shubham Hariyale
+👋 Shubham Hariyale
 
-## Contact
+📍 Leicester, UK
+📧 shubham.azure11@gmail.com
 
-* **Location:** Leicester, UK
-* **Phone:** +44 7554 519948
-* **Email:** shubham.azure11@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/shubham-hariyale
+🔗 LinkedIn: https://www.linkedin.com/in/shubham-hariyale
 
-## About Me
+💻 About Me
 
-Motivated and passionate Software Developer with a strong foundation in .NET development, specializing in ASP.NET, C#, and MS SQL. Proven ability to contribute to website development projects, with experience in both front-end and back-end development. Eager to learn and grow within a collaborative team. Also possesses a strong interest in data analytics and its application in software development, with skills in Python, SQL, and data visualization tools. Currently pursuing an MSc in Advanced Computer Science at the University of Leicester, with expertise in AI, cybersecurity, and big data analytics. Seeking opportunities in Software Development or Data Analytics roles.
+Software Developer with hands-on industry experience building web applications using ASP.NET MVC, C#, and SQL Server. Currently pursuing an MSc in Advanced Computer Science at the University of Leicester.
 
-## Technical Skills
+Primarily focused on backend development, clean architecture, and RESTful APIs, with additional exposure to data analytics using Python and SQL. Experienced in working across the full stack and collaborating within agile, team-based environments.
 
-* **Programming Languages:** C#, .NET, .NET Framework, Python, JavaScript, HTML, CSS
-* **.NET Technologies:** ASP.NET MVC, Web API, REST API, Entity Framework, LINQ
-* **Databases:** MS SQL Server
-* **Web Development:** Front-end and Back-end development
-* **Tools:** Visual Studio,  
-* **Other:** API Design and Development, Performance Evaluation and Optimization, Unit Testing,  
-* **Data Analytics:** SQL, Python, Power BI, Tableau
-* **Soft Skills:** Teamwork, Collaboration, Adaptability, Problem-Solving, Communication (Verbal & Written), Client Liaison
+🛠 Technical Skills
 
-## Work Experience
+Languages
 
-**Software Developer | Osiya Tech, Indore, India | April 2023 - August 2024**
+C#, Python, JavaScript, HTML, CSS
 
-* Contributed to the development of web applications using C#, ASP.NET, HTML, and JavaScript.
-* Designed, developed, and implemented SQL Server database objects.
-* Developed and maintained web applications.
-* Collaborated with cross-functional teams to deliver project outcomes.
+Frameworks & Technologies
 
-## Projects
+ASP.NET MVC, ASP.NET Web API
 
-* **Doit Center (App-Admin)**
-    * Centralized management system for a retail store chain.
-    * Technologies: ASP.NET MVC, C#, SQL Server
-    * Key Contributions: Streamlined store operations.
+Entity Framework, LINQ
 
-* **Doit Pickup (App-Admin)**
-    * Web-based application for managing pickup and delivery service.
-    * Technologies: ASP.NET MVC, C#, SQL Server
-    * Key Contributions: Increased efficiency of pickup and delivery operations
+RESTful APIs
 
-* **Doit Society (App-Admin)**
-    * Community management platform.
-    * Technologies: ASP.NET MVC, C#, SQL Server
-    * Key Contributions: Enhanced community engagement
+Databases
 
-## Education
+MS SQL Server
 
-* MSc Advanced Computer Science | University of Leicester, UK (Jan 2025 - Present)
-* MBA Marketing and Business Analytics | D.A.V.V. University, India (2021-2023)
-* BSc Computer Science | D.A.V.V University, India (2018-2021)
+Tools
+
+Visual Studio, Git
+
+Data Analytics
+
+Python, SQL, Power BI, Tableau
+
+💼 Work Experience
+
+Software Developer | Osiya Tech, Indore, India
+April 2023 – August 2024
+
+Developed and maintained production-level web applications using ASP.NET MVC, C#, and JavaScript.
+
+Designed and implemented SQL Server database objects including tables, views, and stored procedures.
+
+Collaborated with cross-functional teams to deliver stable, production-ready features.
+
+Improved application maintainability and backend structure through clean coding practices.
+
+🚀 Projects
+🌐 Shubham Glass House (Live Business Website)
+
+Official website developed for a real glass and aluminium services business.
+
+Tech Stack: ASP.NET MVC, C#, HTML, CSS, JavaScript
+
+Features: Business showcase, service listings, customer contact integration
+
+Focus: Real-world deployment, performance, and maintainability
+🔗 Live Website: shubhamglasshouse.com
+🔗 Repository: (add repo link if public)
+
+⭐ This project demonstrates real client requirements, deployment experience, and production-ready code.
+
+🌐 MSLR.web
+
+Web application developed as part of an academic and practical software engineering project.
+
+Tech Stack: ASP.NET MVC, C#, SQL Server
+
+Features: User authentication, role-based access, CRUD operations
+
+Focus: Clean MVC architecture and database-driven workflows
+🔗 Repository: https://github.com/Shubbu1107/MSLR.web
+
+
+
+🏬 Doit Center (Admin Panel)
+
+Centralized management system for a retail store chain.
+
+Tech: ASP.NET MVC, C#, SQL Server
+
+Focus: Inventory management and admin workflows
+
+🚚 Doit Pickup (Admin Panel)
+
+Web-based application for managing pickup and delivery operations.
+
+Tech: ASP.NET MVC, C#, SQL Server
+
+Impact: Improved operational efficiency and reduced manual coordination
+
+🏘 Doit Society (Admin Panel)
+
+Community management platform for residential societies.
+
+Tech: ASP.NET MVC, C#, SQL Server
+
+Focus: Member management and administrative workflows
+
+🎓 Education
+
+MSc Advanced Computer Science – University of Leicester, UK (Jan 2025 – Present)
+
+MBA Marketing & Business Analytics – D.A.V.V. University, India (2021 – 2023)
+
+BSc Computer Science – D.A.V.V. University, India (2018 – 2021)
